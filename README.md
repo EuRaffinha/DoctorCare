@@ -4,4 +4,4 @@
 Deploy: https://github.com/EuRaffinha
 <br><br>
  
-<kbd>[![Preview DoctorCare](https://user-images.githubusercontent.com/72631018/167274364-7c92d9da-d3f5-4ec6-8c9d-c42a5490a49e.png)](https://EuRaffinha/DoctorCare.io/doctorcare)</kbd>
+<kbd>[![Preview DoctorCare](https://user-images.githubusercontent.com/72631018/167274364-7c92d9da-d3f5-4ec6-8c9d-c42a5490a49e.png)](https://euraffinha.github.io/DoctorCare/)</kbd>
